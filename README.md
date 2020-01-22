@@ -50,16 +50,16 @@ ie. using 0 for all colours will leave no gain and produce grey
 ## Screenshots:
 ### Blue
 ```jamf_theme.py -b 1.2 -B 20 -c```
-![Blue](https://raw.githubusercontent.com/thedzy/jamf_theme/images/jamf_theme_blue.jpg)
+![Blue](images/jamf_theme_blue.jpg)
 
 ### Red
 ```jamf_theme.py -r 1.2 -R 20 -c```
-![Red](https://raw.githubusercontent.com/thedzy/jamf_theme/images/jamf_theme_red.jpg)
+![Red](images/jamf_theme_red.jpg)
 
 ### Teal
-![Teal](https://raw.githubusercontent.com/thedzy/jamf_theme/images/jamf_theme_teal.jpg)
+![Teal](images/jamf_theme_teal.jpg)
 
 ### Purple
-![Purple](https://raw.githubusercontent.com/thedzy/jamf_theme/images/jamf_theme_purple.jpg)
+![Purple](images/jamf_theme_purple.jpg)
 
 _Relocated from Python repo.  This is it's new home_
