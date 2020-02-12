@@ -6,7 +6,8 @@ This can be useful for differntialing different instances to avoid errors as eac
 Last tested version 10.11
 
 ## Options:
-```--version             show program's version number and exit
+```bash
+--version             show program's version number and exit
 -h, --help            show this help message and exit
 -c, --contrast        add contrast to colour prior to shifting/gain
 -d, --debug           see the value changes and do not commit the changes
