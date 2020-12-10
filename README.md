@@ -1,9 +1,11 @@
 # jamf_theme
 This will apply a monochromatic colour theme to your Jamf instance using colour values that you specify.
 
-This can be useful for differntialing different instances to avoid errors as each instance will have noticable visual appearance.
+This can be useful for differntialing different instances to avoid errors as each instance will have noticeable visual appearance.
 
 Last tested version 10.11
+
+**NOTE** Does not work currently in 10.26 as of the beta
 
 ## Options:
 ```bash
