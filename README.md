@@ -1,3 +1,4 @@
+# \#DEPRECATED \#OBSOLETE
 # jamf_theme
 This will apply a monochromatic colour theme to your Jamf instance using colour values that you specify.
 
